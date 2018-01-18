@@ -1,0 +1,18 @@
+{
+  "name": "manhattan-distance-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest",
+    "test:watch": "./node_modules/.bin/jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.1.2",
+    "prettier": "^1.10.2",
+    "ts-jest": "^22.0.1",
+    "typescript": "^2.6.2"
+  }
+}
